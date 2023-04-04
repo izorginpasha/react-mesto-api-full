@@ -4,7 +4,8 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/izorginpasha/react-mesto-api-full-gha.git
+Адрес первого репозитория разработки: https://github.com/izorginpasha/react-mesto-api-full-gha.git
+Адрес деиствующего  репозитория: https://github.com/izorginpasha/react-mesto-api-full.git
 
 ## Ссылки на проект
 
